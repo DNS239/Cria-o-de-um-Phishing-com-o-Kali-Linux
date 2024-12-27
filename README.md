@@ -1,4 +1,7 @@
 # Cria-o-de-um-Phishing-com-o-Kali-Linux
+# Comando:
+# vim /root/.set/web_clone/index.html: Apagar a script src
+
 
 Ferramentas
 Kali Linux
